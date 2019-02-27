@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190096198129",
+    "firebase_url": "https://ourchat-bae78.firebaseio.com",
+    "project_id": "ourchat-bae78",
+    "storage_bucket": "ourchat-bae78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190096198129:android:26539f0524e91f5c",
+        "android_client_info": {
+          "package_name": "com.youme.candid.ourchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190096198129-pvb0h3479bh2t6otdffu1s4gpfe5o7d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youme.candid.ourchat",
+            "certificate_hash": "1f78461ea5592138f918a6a3b896457eb60846be"
+          }
+        },
+        {
+          "client_id": "190096198129-bcui6db8p5ca2mt5lbe95bo7acimoc4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1WVstKrWXvYdBrkXN-pjdEIimV75_gdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190096198129-bcui6db8p5ca2mt5lbe95bo7acimoc4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
